@@ -6,7 +6,7 @@
 
 <p align="center"><img src="profile.png" alt="animated" /></p>
 
-I am a full-time geek, always keen to work on automating processes and building utility applications for easing out monotonous daily works
+I am a full-time geek, always keen to work on automating processes and building utility applications for easing out monotonous daily works. Keep watching for more details... Till then you can view my repositories and will be glad to accept any feedback or suggestions for improvement or any enhancements!
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rashindipaulusha99&label=Profile%20views&color=0e75b6&style=flat" alt="rashindipaulusha99" /> </p>
 
