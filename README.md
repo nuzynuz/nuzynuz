@@ -6,6 +6,8 @@
 
 <p align="center"><img src="profile.png" alt="animated" /></p>
 
+I am a full-time geek, always keen to work on automating processes and building utility applications for easing out monotonous daily works
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rashindipaulusha99&label=Profile%20views&color=0e75b6&style=flat" alt="rashindipaulusha99" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashindipaulusha99" alt="rashindipaulusha99" /></a> </p>
