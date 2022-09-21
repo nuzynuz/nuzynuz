@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate Software developer from Sri Lanka</h3>
 
-<h3 align="center"><a href="https://git.io/typing-svg" align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&center=true&vCenter=true&width=435&lines=Software+Developer;Software+Designer;Dancer" alt="Typing SVG" style="max-width:100%" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg" align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&center=true&vCenter=true&width=435&lines=Software+Developer;Software+Designer;Problem+Identifier;Cricketer;" alt="Typing SVG" style="max-width:100%" /></a></h3>
 
 <p align="center"><img src="profile.png" alt="animated" /></p>
 
