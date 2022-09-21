@@ -22,7 +22,7 @@ I am a full-time geek, always keen to work on automating processes and building 
 
 - 👨‍💻 All of my projects are available at [https://github.com/nuzynuz](https://github.com/nuzynuz)
 
-- 📝 You can know about me [https://nuslynizam.github.io/MyProfile/](https://nuslynizam.github.io/MyProfile/)
+- 📝 You can know about me [https://github.com/nuzynuz/MyProfile/](https://github.com/nuzynuz/MyProfile/)
 
 - 💬 Ask me about everything **+94774684694**
 
