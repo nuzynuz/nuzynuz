@@ -4,7 +4,7 @@
 
 <h3 align="center"><a href="https://git.io/typing-svg" align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&center=true&vCenter=true&width=435&lines=Software+Developer;Software+Designer;Problem+Identifier;Cricketer;" alt="Typing SVG" style="max-width:100%" /></a></h3>
 
-<p align="center"><img src="profile.png" alt="animated" /></p>
+<p align="center"><img src="profile.PNG" alt="animated" /></p>
 
 I am a full-time geek, always keen to work on automating processes and building utility applications for easing out monotonous daily works. Keep watching for more details... Till then you can view my repositories and will be glad to accept any feedback or suggestions for improvement or any enhancements!
 
